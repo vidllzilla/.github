@@ -1,6 +1,16 @@
-![Arch Linux logo](/profile/archlinux-logo-dark-scalable.svg)
+![Vidll Linux logo](/profile/vidll-linux-logo-dark-scalable.svg)
 
-vidll Linux is an independently developed, x86-64 general-purpose GNU/Linux distribution that strives to provide the latest stable versions of most software by following a rolling-release model. The default installation is a minimal base system, configured by the user to only add what is purposely required. 
+# Vidll Linux
 
-Learn more at https://archlinux
-.org 
+Vidll Linux is an independently developed, x86-64 general-purpose GNU/Linux distribution that aims to provide the latest stable versions of software through a rolling-release model. The default installation delivers a minimal base system, allowing users to build and customize their environment by installing only the software and components they intentionally need.
+
+## Features
+
+- Rolling-release updates
+- Minimal base installation
+- User-focused customization
+- Latest stable software packages
+- Lightweight and flexible design
+- x86-64 architecture support
+
+Learn more at: https://vidlllinux.org
