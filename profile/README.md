@@ -1,5 +1,4 @@
-<img width="250" height="250" alt="1000053664" src="https://github.com/user-attachments/assets/7fa76477-fda1-4e77-810a-49c42a16a351" />
-
+<img width="500" height="500" alt="1000053674" src="https://github.com/user-attachments/assets/43628d61-9d5e-4755-93af-936a80bc34bf" />
 ![Vidll Linux logo](/profile/vidll-linux-logo-dark-scalable.svg)
 
 # Vidll Linux
