@@ -1,4 +1,5 @@
-<img width="1254" height="1254" alt="1000098994" src="https://github.com/user-attachments/assets/20dcb48d-aeba-4753-951b-a1ceb6f7c46d" />
+![1000098995](https://github.com/user-attachments/assets/c49ee0e1-83f7-4243-a5b1-9e93620c9797)
+
 
 # Vidll Linux
 
